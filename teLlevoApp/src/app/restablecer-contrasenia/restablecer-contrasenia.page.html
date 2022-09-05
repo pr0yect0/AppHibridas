@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Restablecer Contraseña</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="">
+
+  <div class="fondo">
+    <div class="example-container">
+      <div class="caja">
+        <div class="maximizar"></div>
+        <div class="cerrar"></div>
+      </div>
+        <mat-form-field appearance="fill" class="x">
+          <mat-label  class="letras"><p class="color-letra">  Ingresa tu Email </p></mat-label>
+          <input class="input" matInput placeholder="pat@example.com" [formControl]="email" required>
+          <mat-error class="error" *ngIf="email.invalid"><div class="interpol"><p class="color-interpol">{{getErrorMessage()}}</p></div></mat-error>
+        </mat-form-field>
+        
+      
+
+    </div>
+  </div>
+  
+</ion-content>

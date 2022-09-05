@@ -1,0 +1,101 @@
+
+.example-container{
+    background-color: 
+    #979a9a ;
+    padding-top: 10px;
+    padding-bottom: 300px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+.fondo{
+    
+    background-color: yellow;
+}
+.x{
+    background-color:  #d0d3d4;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #34495e;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+.letras{
+    margin-bottom: 55px;
+    margin-left: 60px;
+    color: azure;
+    background-color: 
+    #ecf0f1 ;
+}
+.color-letra{
+    margin-top: -10px;
+    margin-left: 60px;
+    color:  #34495e ;
+}
+.input{
+    margin-left: 20px;
+    width: 120px;
+    background-color: azure;
+    padding-right: 60px;
+}
+.error{
+    margin-left: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    background-color:  #839192 ;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #34495e;
+}
+.caja{
+    background-color: chocolate;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 40px;
+    width:244px;
+    height: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-bottom: 1px;
+}
+.maximizar{
+    margin-top: 2px;
+    margin-left: 2px;
+    width: 8px;
+    height: 8px;
+    border-width: 1px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+}
+.cerrar{
+    margin-top: -8px;
+    margin-left: 15px;
+    width: 8px;
+    height: 8px;
+    border-width: 1px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+}
+.interpol{
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.color-interpol{
+    color: black;
+    margin-left: 0px;
+    font-size: 14px;
+    text-align: center;
+}
+//.example-container .mat-form-field + .mat-form-field {
+    //margin-left: 8px;
+  //}
+
